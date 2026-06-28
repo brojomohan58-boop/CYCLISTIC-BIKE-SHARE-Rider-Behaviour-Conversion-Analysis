@@ -27,8 +27,8 @@ Cyclistic bikes differently — and how can marketing convert casuals?
 01_data/          → Data documentation and sample (no large CSVs)
 02_sql/           → 6 BigQuery SQL scripts (combine, transform, clean, analyze)
 03_python/        → Colab notebook + 8 analysis charts
-04_dashboards/    → Tableau workbook + 3 dashboard screenshots
-05_docs/          → Case study report and key findings
+04_tableau/    → Tableau workbook + 3 dashboard screenshots
+05_presentation/          → Case study report and key findings
  
 ## 🔗 Live Dashboard
 👉 [View on Tableau Public](https://public.tableau.com/views/CyclisticRiderBehaviorMembershipConversionAnalysis/ExecutiveOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
