@@ -1,7 +1,7 @@
 # 🚴 Cyclistic Bike-Share Rider Behaviour & Membership Conversion Analysis
 
 <p align="center">
-  <img src="05_presentation/workflow.png" alt="Cyclistic Workflow" width="100%">
+  <img src="05_presentation/work_flow.png" alt="Cyclistic Workflow" width="100%">
 </p>
 
 <p align="center">
