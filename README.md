@@ -116,19 +116,19 @@ Focus promotional offers on **11–20 minute casual rides**, representing the la
 
 ### Executive Overview
 
-![Executive Dashboard](images/dashboard1.png)
+![Executive Dashboard](04_tableau/dashboard_1_executive_overview.png)
 
 ---
 
 ### Rider Behaviour Analysis
 
-![Behaviour Dashboard](images/dashboard2.png)
+![Behaviour Dashboard](04_tableau/dashboard_2_rider_behavior.png)
 
 ---
 
 ### Conversion Opportunities
 
-![Conversion Dashboard](images/dashboard3.png)
+![Conversion Dashboard](04_tableau/dashboard_3_conversion_opportunity.png)
 
 ---
 
